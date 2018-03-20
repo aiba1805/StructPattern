@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\шулембековай\documents\github\structpattern\adapter\source.cpp(42): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\шулембековай\documents\github\structpattern\adapter\source.cpp(57): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\шулембековай\documents\github\structpattern\adapter\source.cpp(80): warning C4715: WeaponCreator::CreateUniqueWeapon: значение возвращается не при всех путях выполнения
+  Adapter.vcxproj -> C:\Users\ШулембековАй\Documents\GitHub\StructPattern\Debug\Adapter.exe
+  Adapter.vcxproj -> C:\Users\ШулембековАй\Documents\GitHub\StructPattern\Debug\Adapter.pdb (Partial PDB)
