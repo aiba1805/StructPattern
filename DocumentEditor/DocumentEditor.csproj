@@ -43,9 +43,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Document.cs" />
+    <Compile Include="Filter.cs" />
     <Compile Include="Format.cs" />
     <Compile Include="GraphicDocument.cs" />
     <Compile Include="IDocument.cs" />
+    <Compile Include="IGraphicDocument.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
