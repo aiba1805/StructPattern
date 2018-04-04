@@ -1,0 +1,6 @@
+C:\Users\ШулембековАй\Documents\GitHub\StructPattern\DocumentEditor\bin\Debug\DocumentEditor.exe.config
+C:\Users\ШулембековАй\Documents\GitHub\StructPattern\DocumentEditor\bin\Debug\DocumentEditor.exe
+C:\Users\ШулембековАй\Documents\GitHub\StructPattern\DocumentEditor\bin\Debug\DocumentEditor.pdb
+C:\Users\ШулембековАй\Documents\GitHub\StructPattern\DocumentEditor\obj\Debug\DocumentEditor.csprojResolveAssemblyReference.cache
+C:\Users\ШулембековАй\Documents\GitHub\StructPattern\DocumentEditor\obj\Debug\DocumentEditor.exe
+C:\Users\ШулембековАй\Documents\GitHub\StructPattern\DocumentEditor\obj\Debug\DocumentEditor.pdb
